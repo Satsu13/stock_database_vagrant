@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/stocks/database","disabled":false,"__vagrantfile":true},"/var/www":{"guestpath":"/var/www","hostpath":"D:/stocks/database","disabled":false,"__vagrantfile":true}}}
