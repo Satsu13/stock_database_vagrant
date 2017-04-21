@@ -85,10 +85,12 @@ unset MYSQL_PWD
 # echo "**********"
 # echo "**********"
 
+# foreman run bundle install
+
 # setup rails app
 # cd /var/www
 # rails new .
 # (edit gemfile)
-# foreman run bundle install
+
 # foreman run rake db:create db:migrate db:seed
 # foreman run npm build
